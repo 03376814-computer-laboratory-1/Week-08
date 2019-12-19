@@ -1,0 +1,6 @@
+C:\Users\AomNaHerB\source\repos\Week-08\61030001\week8\week8\obj\Debug\week8.csprojAssemblyReference.cache
+C:\Users\AomNaHerB\source\repos\Week-08\61030001\week8\week8\bin\Debug\week8.exe.config
+C:\Users\AomNaHerB\source\repos\Week-08\61030001\week8\week8\bin\Debug\week8.exe
+C:\Users\AomNaHerB\source\repos\Week-08\61030001\week8\week8\bin\Debug\week8.pdb
+C:\Users\AomNaHerB\source\repos\Week-08\61030001\week8\week8\obj\Debug\week8.exe
+C:\Users\AomNaHerB\source\repos\Week-08\61030001\week8\week8\obj\Debug\week8.pdb
